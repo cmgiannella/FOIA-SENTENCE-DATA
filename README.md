@@ -3,7 +3,7 @@ The MITRE Corporation is a not-for-profit company, chartered in the public inter
 
 \<label\> = D0 or D1. [As discussed in the paper.]
 
-\<Sentence Text\> = the text of the sentence.
+\<Sentence Text\> = the text of the sentence. 
 
 \<Always deliberative\> = blank (not always deliberative) or 1 (always deliberative) [As discussed in the paper.]
 
