@@ -1,7 +1,7 @@
 # FOIA-SENTENCE-DATA
 The MITRE Corporation is a not-for-profit company, chartered in the public interest. These data files are approved for Public Release; Distribution Unlimited. Case Number 23-1958. ©2023 The MITRE Corporation. All rights reserved.
 
-<label> = D0 or D1. [As discussed in the paper.]
+<<label>> = D0 or D1. [As discussed in the paper.]
 
 <Sentence Text> = the text of the sentence.
 
